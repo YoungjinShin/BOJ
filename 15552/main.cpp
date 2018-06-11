@@ -13,4 +13,5 @@ int main() {
         cin >> A >> B;
         cout << A + B << "\n";
     }
+    return 0;
 }
